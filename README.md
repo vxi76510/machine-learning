@@ -1,4 +1,4 @@
 # machine-learning
 credentials:
-vxi76510
-machinelearning1@
+username: vxi76510
+password: machinelearning1@
